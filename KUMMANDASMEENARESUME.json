@@ -1,0 +1,56 @@
+{
+	"basics": {
+		"name": "KUMMANDAS MEENA",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/82511897?s=400&u=20bbf1155db44f8a773e884781374abf70ed65f8&v=4",
+		"email": "2020kucp1056@iiitkota.ac.in",
+		"phone": "7489655290",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering",
+		"location": {
+			"address": "Aanand vihar first ,chhabrha ",
+			"postalCode": "325220",
+			"city": "BARAN",
+			"countryCode": "India",
+			"HINDU": "---RAJSTHAN"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "kummandas",
+				"url": "https://github.com/kummandas/<handle>/"
+			},
+			{
+				"network": "linkdin",
+				"username": "KUMMANDAS MEENA",
+				"url": "https://www.linkedin.com/in/kummandas-meena-51897820b/username>/"
+			},
+			{
+				"network": "Instagram",
+				"username": "kingkumman",
+				"url": "https://www.instagram.com/kingkumman/<handle>"
+			}
+		]
+	},
+	
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-08 //Date",
+		"endDate": "----",
+		"gpa": "---Add your CGPA ---",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	
+	"skills": [{
+		"level": "beginner",
+		"keywords": ["HTML", "CSS", "Javascript","php" , "C"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Kabbadi"]
+	}],
+	"references": []
+}
